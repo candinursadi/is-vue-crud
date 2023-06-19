@@ -12,7 +12,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
-Get this repository ([laravel-api](https://github.com/candinursadi/is-laravel-api)) to support this project.
+Get [laravel-api](https://github.com/candinursadi/is-laravel-api) to support this project.  
 Update .env based on your local setup
 
 ```
