@@ -1,4 +1,4 @@
-# vue-rest-api
+# vue-crud
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -11,6 +11,13 @@ This template should help get you started developing with Vue 3 in Vite.
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
+
+Get this repository ([laravel-api](https://github.com/candinursadi/is-laravel-api)) to support this project.
+Update .env based on your local setup
+
+```
+VITE_API_URL=http://localhost:8000/api/v1/
+```
 
 ```sh
 npm install
